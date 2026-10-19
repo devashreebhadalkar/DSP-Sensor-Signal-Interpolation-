@@ -1,0 +1,18 @@
+(.venv) PS C:\Users\santhosh\Desktop\DSP_Sensor_Signal_Interpolation> python Code/09_plot_real_temperature_signal.py
+=================================================================
+REAL TEMPERATURE SENSOR SIGNAL
+=================================================================
+
+Total records loaded: 75,511
+Valid temperature readings: 75,511
+First timestamp: 2020-01-24 23:01:49.251503+00:00
+Last timestamp:  2020-02-13 10:58:14.014336+00:00
+
+Temperature statistics:
+Mean:   20.026 °C
+Median: 20.230 °C
+Minimum: 14.820 °C
+Maximum: 23.470 °C
+
+Graph saved to:
+C:\Users\santhosh\Desktop\DSP_Sensor_Signal_Interpolation\SCREENSHOTS\08_Real_Temperature_Signal.png

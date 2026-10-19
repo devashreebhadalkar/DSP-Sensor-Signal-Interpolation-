@@ -1,0 +1,24 @@
+DSP MINI PROJECT SUMMARY
+Interpolation for Smooth Reconstruction of Sensor Signals
+=======================================================
+
+SIGNAL SETTINGS
+Original sampling rate: 10 Hz
+Signal frequency: 1 Hz
+Signal duration: 2 seconds
+Interpolation factor: 4
+New sampling rate: 40 Hz
+
+SAMPLE INFORMATION
+Original sample count: 20
+Interpolated sample count: 80
+
+ERROR MEASUREMENTS
+Mean Squared Error (MSE): 0.000240
+Root Mean Squared Error (RMSE): 0.015486
+Maximum absolute error: 0.057337
+
+CONCLUSION
+Interpolation increases the number of samples and provides
+a smoother representation of the sampled sensor signal.
+Error measurements help compare it with the reference signal.

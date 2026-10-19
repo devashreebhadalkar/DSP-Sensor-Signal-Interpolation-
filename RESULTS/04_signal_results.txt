@@ -1,0 +1,11 @@
+SENSOR SIGNAL INTERPOLATION PROJECT
+===================================
+Original sampling rate: 10 Hz
+Signal frequency: 1 Hz
+Signal duration: 2 seconds
+Interpolation factor: 4
+Interpolated sampling rate: 40 Hz
+Original sample count: 20
+Interpolated sample count: 80
+Mean Squared Error (MSE): 0.000240
+Root Mean Squared Error (RMSE): 0.015486

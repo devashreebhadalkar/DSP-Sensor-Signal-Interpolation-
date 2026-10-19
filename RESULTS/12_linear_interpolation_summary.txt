@@ -1,0 +1,7 @@
+LINEAR INTERPOLATION RESULTS
+========================================
+Total valid readings: 500
+Sparse samples used: 101
+Estimated values: 399
+MAE: 0.014563 °C
+RMSE: 0.021866 °C

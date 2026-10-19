@@ -1,0 +1,62 @@
+DSP MINI-PROJECT: FINAL RESULTS SUMMARY
+=======================================
+
+Project title:
+Interpolation for Smooth Reconstruction of Sensor Signals
+
+Dataset:
+UCI Single Elder Home Monitoring dataset
+
+Signal analyzed:
+Real temperature sensor measurements
+
+INTERPOLATION METHODS
+---------------------
+1. Linear interpolation
+2. Cubic interpolation
+
+PERFORMANCE METRICS
+-------------------
+Linear interpolation:
+MAE  = 0.014563 °C
+RMSE = 0.021866 °C
+
+Cubic interpolation:
+MAE  = 0.014421 °C
+RMSE = 0.021394 °C
+
+COMPARISON
+----------
+Method with lower MAE:  Cubic interpolation
+Method with lower RMSE: Cubic interpolation
+
+INTERPRETATION
+--------------
+MAE represents the mean absolute difference between interpolated
+estimates and held-out recorded temperature readings.
+
+RMSE represents the root mean squared difference and gives greater
+weight to larger errors.
+
+Lower values indicate closer agreement with the held-out readings
+for this particular experiment.
+
+The comparison uses recorded readings excluded from the sparse
+sample set as reference values. These are not independent ground-truth
+measurements of the true temperature.
+
+CONCLUSION
+----------
+Both interpolation methods were evaluated on the selected real
+temperature signal segment.
+
+The method with lower error performed better according to that
+metric for this experiment. Results may vary with the dataset,
+sampling pattern, and signal characteristics.
+
+Interpolation estimates values between existing samples; it does
+not create new sensor measurements.
+
+Note:
+This report summarizes the calculated metrics. Verify the plots,
+dataset details, and experimental settings before final submission.

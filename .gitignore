@@ -1,0 +1,40 @@
+# Python virtual environment
+.venv/
+venv/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Streamlit secrets
+.streamlit/secrets.toml
+
+# Environment variables
+.env
+
+# Temporary files
+*.tmp
+
+# Python virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Streamlit secrets and environment variables
+.streamlit/secrets.toml
+.env
+
+# macOS metadata files
+._*
+.DS_Store
+
+# Unnecessary dataset files
+DATASET/single+elder+home+monitoring+gas+and+position/DB elder monitoring/database_gas.csv
+DATASET/single+elder+home+monitoring+gas+and+position/DB elder monitoring/database_pos.csv
+DATASET/single+elder+home+monitoring+gas+and+position.zip
+
+# macOS metadata files
+._*
+

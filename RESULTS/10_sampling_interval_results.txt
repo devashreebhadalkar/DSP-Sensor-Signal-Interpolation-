@@ -1,0 +1,7 @@
+SAMPLING INTERVAL ANALYSIS
+========================================
+Valid intervals: 75,510
+Mean interval: 22.309 seconds
+Median interval: 20.004 seconds
+Minimum interval: 1.852 seconds
+Maximum interval: 166398.560 seconds

@@ -1,0 +1,13 @@
+INTERPOLATION METHOD COMPARISON
+=============================================
+Total readings: 500
+Sparse samples: 101
+Test readings: 399
+
+Linear interpolation:
+MAE:  0.014563 °C
+RMSE: 0.021866 °C
+
+Cubic interpolation:
+MAE:  0.014421 °C
+RMSE: 0.021394 °C
