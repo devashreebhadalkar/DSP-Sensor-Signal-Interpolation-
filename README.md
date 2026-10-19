@@ -1,5 +1,20 @@
 # Interpolation for Smooth Reconstruction of Sensor Signals
 
+## 🌐 Live Application
+
+Try the interactive DSP Sensor Signal Interpolation Dashboard:
+
+**[Open Live Dashboard](https://n43rzuqzwzph8mb6wb7tgr.streamlit.app/)**
+
+## ✨ Features
+
+- Sensor signal visualization
+- Linear and cubic interpolation
+- MAE and RMSE performance evaluation
+- Interactive data tables
+- CSV upload and analysis
+- Downloadable results
+
 ## 1. Project Overview
 This DSP mini-project demonstrates how interpolation can increase the number of samples in a sampled sensor signal and create a smoother signal representation using Python.
 
